@@ -14,4 +14,4 @@ jobs:
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
           SOURCE: "./"
-          TARGET: "/home/ubuntu/upgraded-waffle"
+          TARGET: "/home/ubuntu/https://github.com/ChrisB0617/upgraded-waffle.git"
